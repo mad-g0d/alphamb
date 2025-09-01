@@ -15,9 +15,9 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Living_in_delusions")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Streamvc_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "AqiaBot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Aqia")
 # ---------------------------------------------------------
@@ -74,9 +74,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DUNE_BOTS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DUNEBOTS")
-CHAT = getenv("CHAT", "https://t.me/DUNEBOTS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
+CHAT = getenv("CHAT", "https://t.me/ProBotGc")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
